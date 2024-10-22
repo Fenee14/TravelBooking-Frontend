@@ -1,0 +1,57 @@
+[
+    {
+      "airline": "Singapore Airlines",
+      "flightNumber": "SQ26",
+      "origin": "JFK",
+      "destination": "SIN",
+      "duration": 18,
+      "price": 1200,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkzZlklm6-7bX0l53CbcFgHZ9O3ziSxx1OFw&s"
+    },
+    {
+      "airline": "Delta Airlines",
+      "flightNumber": "DL405",
+      "origin": "LAX",
+      "destination": "JFK",
+      "duration": 6,
+      "price": 350,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkzZlklm6-7bX0l53CbcFgHZ9O3ziSxx1OFw&s"
+    },
+    {
+      "airline": "Delta Airlines",
+      "flightNumber": "DL405",
+      "origin": "LAX",
+      "destination": "JFK",
+      "duration": 6,
+      "price": 350,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkzZlklm6-7bX0l53CbcFgHZ9O3ziSxx1OFw&s"
+    },
+    {
+      "airline": "Singapore Airlines",
+      "flightNumber": "SQ26",
+      "origin": "JFK",
+      "destination": "SIN",
+      "duration": 18,
+      "price": 1200,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkzZlklm6-7bX0l53CbcFgHZ9O3ziSxx1OFw&s"
+    },
+    {
+      "airline": "Singapore Airlines",
+      "flightNumber": "SQ26",
+      "origin": "JFK",
+      "destination": "SIN",
+      "duration": 18,
+      "price": 1200,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkzZlklm6-7bX0l53CbcFgHZ9O3ziSxx1OFw&s"
+    },
+    {
+      "airline": "Delta Airlines",
+      "flightNumber": "DL405",
+      "origin": "LAX",
+      "destination": "JFK",
+      "duration": 6,
+      "price": 350,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkzZlklm6-7bX0l53CbcFgHZ9O3ziSxx1OFw&s"
+    }
+  ]
+  
